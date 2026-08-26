@@ -1,1 +1,1 @@
-# .github
+# GRUPI 332 - JavaScript
